@@ -10,6 +10,6 @@ def fuenteExterna
     p "fuente externa"
 end
 
-def pull
-    p "pull"
+def pull-push
+    p "pull y push"
 end
