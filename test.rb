@@ -12,4 +12,6 @@ end
 
 def pull-push
     p "pull y push"
+def push
+    p "push"
 end
